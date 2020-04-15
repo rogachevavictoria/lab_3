@@ -1,0 +1,1 @@
+id   airline_name    alias   iata    icao    callsign    country
